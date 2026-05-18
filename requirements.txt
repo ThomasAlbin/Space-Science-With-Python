@@ -1,0 +1,18 @@
+# SPICE
+spiceypy
+
+# Interactive Shell
+ipython
+ipywidgets
+tqdm
+
+# Jupyterlab
+jupyterlab
+
+# Numerics and Science
+numpy
+pandas
+scipy
+
+# Plotting
+matplotlib
