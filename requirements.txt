@@ -1,6 +1,9 @@
 # SPICE
 spiceypy
 
+# Astronomy (star catalogs, ephemerides, apparent magnitudes)
+skyfield
+
 # Interactive Shell
 ipython
 ipywidgets
@@ -16,3 +19,7 @@ scipy
 
 # Plotting
 matplotlib
+cartopy
+
+# Imagery (browse products, basemaps)
+pillow
